@@ -1,0 +1,82 @@
+{
+  "author": {
+    "name": "Agnes",
+    "headline": "Analytics · Strategy · Data-driven problem solving",
+    "initials": "A"
+  },
+  "ideas": [
+    {
+      "id": 1,
+      "title": "I like SQL. Not something I ever thought I'd say.",
+      "coreIdea": "SQL feels unusually intuitive because the syntax follows the way Agnes thinks through a question. What began as \"numbers in cells\" has expanded into something that feels closer to participating in the technical world.",
+      "drafts": [
+        {
+          "id": "1-1",
+          "draftNumber": 1,
+          "angleName": "The Accessibility Angle",
+          "angleSummary": "SQL didn't feel like learning tech—it felt like finally speaking it",
+          "createdAt": "2026-09-08T09:00:00+08:00",
+          "postText": "I used to think of myself as a spreadsheet analyst. Numbers in cells. That was my world.\n\nThen I learned SQL. And something unexpected happened: it felt conversational.\n\nMost programming languages feel like translation. You have to think like a computer first, then write. SQL is the opposite. The syntax follows the way I already ask questions. SELECT what. FROM where. WHERE conditions. It's almost dialogue.\n\nThat changed something. Suddenly, \"numbers in cells\" started feeling like the lower bound of what I could do.\n\nNow I'm dealing with self-joins, cumulative window functions, resource efficiency versus readability—the kind of sophisticated stuff that would have terrified me a year ago. An AI assistant helps with the syntax patterns I haven't memorized yet, but the thinking part? That part feels native.\n\nWhat I realized is this: I was never uncomfortable with technical work. I was uncomfortable with the language barrier.\n\nA sprinkle of programming and a dash of Cloud, and the technical world stopped feeling like somewhere I was visiting. It started feeling like somewhere I belong.",
+          "hashtags": [],
+          "cta": null,
+          "visuals": [
+            {
+              "type": "real-world",
+              "label": "Visual 1 — Real screenshot",
+              "description": "Screenshot of your IDE or SQL query window open, showing a readable query (self-join or window function visible). Crop to show your work without exposing sensitive tables or data."
+            },
+            {
+              "type": "ai-generated",
+              "label": "Visual 2 — AI-generated graphic",
+              "description": "Timeline showing progression: \"Spreadsheet analyst\" → \"Learned SQL\" → \"Self-joins & window functions\" → \"Technical world feels native.\" Clean typography with a subtle gradient transition."
+            }
+          ]
+        },
+        {
+          "id": "1-2",
+          "draftNumber": 2,
+          "angleName": "The Sophistication Angle",
+          "angleSummary": "SQL seduces you with simplicity, then reveals its depth",
+          "createdAt": "2026-09-08T09:15:00+08:00",
+          "postText": "SQL is a trap. A beautiful trap.\n\nIt starts simple enough that you think you understand it after a week. SELECT * FROM table WHERE condition. Feels almost English.\n\nThen you discover self-joins. Cumulative window functions. Query optimization. Suddenly you're thinking about index strategies and when to aggregate versus when to keep raw data longer.\n\nThe interesting thing is that this escalation doesn't feel like switching tools—it feels like the same tool getting progressively more sophisticated. The syntax that felt conversational on day one still feels conversational when you're debugging a complex window function. You're not learning a new language; you're learning the depths of one that already made sense.\n\nI think that's why SQL clicked for me when other technical paths didn't. The learning curve doesn't require you to abandon your thinking style halfway through. It extends it.\n\nAnd now, honestly? This feels less like learning a tool and more like joining a world I always belonged to but didn't know how to enter. A sprinkle of programming, a dash of Cloud, and suddenly it's less about \"doing analysis\" and more about \"building systems that create analysis.\"\n\nThat's a different identity entirely.",
+          "hashtags": [],
+          "cta": null,
+          "visuals": [
+            {
+              "type": "real-world",
+              "label": "Visual 1 — Real screenshot",
+              "description": "Side-by-side comparison: a simple SQL query on the left (basic SELECT) and a complex one on the right (with window functions, CTEs, joins). Annotate to show the progression."
+            },
+            {
+              "type": "ai-generated",
+              "label": "Visual 2 — AI-generated graphic",
+              "description": "SQL syntax hierarchy as a pyramid: bottom level SELECT/WHERE/FROM, middle level JOINs/aggregations, top level window functions/CTEs/optimization. Title: \"SQL: Starts conversational, stays intuitive, gets sophisticated.\""
+            }
+          ]
+        },
+        {
+          "id": "1-3",
+          "draftNumber": 3,
+          "angleName": "The Identity Angle",
+          "angleSummary": "Spreadsheets made me an analyst. SQL made me a technologist.",
+          "createdAt": "2026-09-08T09:30:00+08:00",
+          "postText": "There's a difference between analyzing data and building systems that make analysis possible.\n\nI spent years comfortable in the first camp. Spreadsheets, dashboards, metrics. That was me. But there was always this invisible line between what I did and what \"actual tech people\" did. They programmed. I analyzed.\n\nSQL didn't just add a tool to my toolkit. It collapsed that line.\n\nWhen I write a SQL query now, I'm not preparing data for analysis—I'm designing how the data flows, how it joins, how it aggregates, which transformations happen where. I'm thinking about efficiency and readability and what assumptions I'm baking in. That's engineering, not analysis.\n\nThe funny part? SQL made this accessible precisely because it didn't feel like learning programming. The syntax mirrors how I already think through a problem. A self-join isn't a syntax puzzle to memorize; it's just asking \"what if I compare this table to itself?\" Window functions aren't a concept I have to translate into computational thinking; they're just \"what if I look at each row alongside its context?\"\n\nA sprinkle of programming and a dash of Cloud, and I stopped being someone who works with data and became someone who builds systems. That's not a subtle shift.",
+          "hashtags": [],
+          "cta": null,
+          "visuals": [
+            {
+              "type": "real-world",
+              "label": "Visual 1 — Real screenshot",
+              "description": "Capture a moment of you actively writing or reviewing SQL. Show the query in your IDE, perhaps with comments or variable names visible that demonstrate strategic thinking."
+            },
+            {
+              "type": "ai-generated",
+              "label": "Visual 2 — AI-generated graphic",
+              "description": "Two-column visual: Left \"Analyst\" (spreadsheet icon, dashboard, metrics), Right \"Technologist\" (SQL queries, pipeline architecture, data flow), arrow between them. Title: \"SQL changed how I see my role.\""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
